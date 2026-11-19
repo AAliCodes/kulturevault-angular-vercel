@@ -1,0 +1,47 @@
+/**
+ * KULTUREVAULT // Collectibles & Art Vault — Material You (M3 HCT) Dark Gallery Theme Partial
+ * Palette: Tokyo Gallery Amber (#F4A261), KAWS Mint (#2EC4B6), Obsidian Violet (#0C0B12..#322E4A)
+ */
+
+:root[data-shop-theme='collectibles'] {
+  color-scheme: dark;
+
+  --md-sys-color-primary: #F4A261;
+  --md-sys-color-on-primary: #241002;
+  --md-sys-color-primary-container: #3B2313;
+  --md-sys-color-on-primary-container: #FFDCC2;
+  --md-sys-color-primary-fixed-dim: #E76F51;
+
+  --md-sys-color-secondary: #2EC4B6;
+  --md-sys-color-on-secondary: #00201D;
+  --md-sys-color-secondary-container: #0F3834;
+  --md-sys-color-on-secondary-container: #A7F3EC;
+
+  --md-sys-color-tertiary: #C084FC;
+  --md-sys-color-on-tertiary: #1F0938;
+  --md-sys-color-tertiary-container: #2E1A47;
+  --md-sys-color-on-tertiary-container: #F3E8FF;
+
+  --md-sys-color-background: #13111C;
+  --md-sys-color-on-background: #F5F3FF;
+  --md-sys-color-surface: #0C0B12;
+  --md-sys-color-on-surface: #F5F3FF;
+  --md-sys-color-on-surface-variant: #A5A1C2;
+
+  --md-sys-color-surface-container-lowest: #0C0B12;
+  --md-sys-color-surface-container-low: #13111C;
+  --md-sys-color-surface-container: #1C1929;
+  --md-sys-color-surface-container-high: #262338;
+  --md-sys-color-surface-container-highest: #322E4A;
+
+  --md-sys-color-outline: #56507A;
+  --md-sys-color-outline-variant: #262338;
+
+  --md-sys-elevation-level1: 0 4px 16px rgba(0, 0, 0, 0.5);
+  --md-sys-elevation-level2: 0 8px 28px rgba(244, 162, 97, 0.16);
+  --md-sys-elevation-level3: 0 14px 36px rgba(0, 0, 0, 0.7);
+
+  --md-sys-typescale-heading-font: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+  --md-sys-typescale-body-font: 'Inter', system-ui, -apple-system, sans-serif;
+  --md-sys-typescale-mono-font: 'JetBrains Mono', 'Fira Code', monospace;
+}

@@ -1,0 +1,51 @@
+/**
+ * Material Design 3 (Material You) — Foundational System Token Contract
+ * Maps HCT (Hue, Chroma, Tone) 5-step surface containers, semantic roles,
+ * shape geometry, and elevation tokens across all AmpAfrika sub-shops.
+ */
+
+:root {
+  /* Shape Scale (Material 3 Corner Geometry) */
+  --md-sys-shape-corner-extra-small: 4px;
+  --md-sys-shape-corner-small: 8px;
+  --md-sys-shape-corner-medium: 12px;
+  --md-sys-shape-corner-large: 16px;
+  --md-sys-shape-corner-extra-large: 24px;
+  --md-sys-shape-corner-full: 9999px;
+
+  /* State Layer Opacity Spec (Material 3) */
+  --md-sys-state-hover-opacity: 0.08;
+  --md-sys-state-focus-opacity: 0.12;
+  --md-sys-state-pressed-opacity: 0.12;
+  --md-sys-state-dragged-opacity: 0.16;
+
+  /* Motion & Easing Tokens (M3 Standard & Emphasized) */
+  --md-sys-motion-easing-standard: cubic-bezier(0.2, 0, 0, 1);
+  --md-sys-motion-easing-emphasized: cubic-bezier(0.2, 0, 0, 1);
+  --md-sys-motion-duration-short: 150ms;
+  --md-sys-motion-duration-medium: 250ms;
+  --md-sys-motion-duration-long: 400ms;
+
+  /* Semantic Status Roles (Shared Default Fallbacks) */
+  --md-sys-color-error: #B3261E;
+  --md-sys-color-on-error: #FFFFFF;
+  --md-sys-color-error-container: #F9DEDC;
+  --md-sys-color-on-error-container: #410E0B;
+
+  --md-sys-color-success: #146C43;
+  --md-sys-color-on-success: #FFFFFF;
+  --md-sys-color-success-container: #D1E7DD;
+  --md-sys-color-on-success-container: #062E1A;
+
+  /* Legacy Alias Bridge (maps existing --shop-* references to M3 system tokens) */
+  --shop-primary: var(--md-sys-color-primary);
+  --shop-primary-hover: var(--md-sys-color-primary-fixed-dim, var(--md-sys-color-primary));
+  --shop-secondary: var(--md-sys-color-secondary);
+  --shop-accent: var(--md-sys-color-tertiary);
+  --shop-bg: var(--md-sys-color-surface-container-low);
+  --shop-surface: var(--md-sys-color-surface-container-lowest);
+  --shop-surface-elevated: var(--md-sys-color-surface-container);
+  --shop-border: var(--md-sys-color-outline-variant);
+  --shop-text-primary: var(--md-sys-color-on-surface);
+  --shop-text-secondary: var(--md-sys-color-on-surface-variant);
+}

@@ -1,0 +1,173 @@
+/**
+ * Material Design 3 (Material You) — Reusable SCSS Mixins
+ * Provides authentic M3 tonal surface containment, state-layer overlays,
+ * pill chips, and inline CX quantity steppers without inline style hacks.
+ */
+
+@mixin m3-surface-container($level: 'default', $border-token: var(--md-sys-color-outline-variant)) {
+  @if $level == 'lowest' {
+    background-color: var(--md-sys-color-surface-container-lowest);
+  } @else if $level == 'low' {
+    background-color: var(--md-sys-color-surface-container-low);
+  } @else if $level == 'high' {
+    background-color: var(--md-sys-color-surface-container-high);
+  } @else if $level == 'highest' {
+    background-color: var(--md-sys-color-surface-container-highest);
+  } @else {
+    background-color: var(--md-sys-color-surface-container);
+  }
+  color: var(--md-sys-color-on-surface);
+  border: 1px solid $border-token;
+}
+
+@mixin m3-interactive-card($radius: var(--md-sys-shape-corner-large)) {
+  background-color: var(--md-sys-color-surface-container-lowest);
+  color: var(--md-sys-color-on-surface);
+  border: 1px solid var(--md-sys-color-outline-variant);
+  border-radius: $radius;
+  box-shadow: var(--md-sys-elevation-level1);
+  transition:
+    background-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    border-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    box-shadow var(--md-sys-motion-duration-medium) var(--md-sys-motion-easing-standard);
+
+  &:hover {
+    border-color: var(--md-sys-color-outline);
+    box-shadow: var(--md-sys-elevation-level2);
+  }
+}
+
+@mixin m3-filled-button($bg-token: var(--md-sys-color-primary), $fg-token: var(--md-sys-color-on-primary)) {
+  position: relative;
+  overflow: hidden;
+  background-color: $bg-token;
+  color: $fg-token;
+  border: none;
+  border-radius: var(--md-sys-shape-corner-full);
+  font-family: var(--md-sys-typescale-body-font);
+  font-weight: 600;
+  min-height: 44px;
+  padding: 10px 22px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition:
+    background-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    box-shadow var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    opacity var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+
+  &:hover:not(:disabled) {
+    filter: brightness(1.06);
+    box-shadow: var(--md-sys-elevation-level2);
+  }
+
+  &:active:not(:disabled) {
+    filter: brightness(0.96);
+  }
+
+  &:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
+}
+
+@mixin m3-tonal-button(
+  $bg-token: var(--md-sys-color-secondary-container),
+  $fg-token: var(--md-sys-color-on-secondary-container)
+) {
+  background-color: $bg-token;
+  color: $fg-token;
+  border: 1px solid transparent;
+  border-radius: var(--md-sys-shape-corner-full);
+  font-family: var(--md-sys-typescale-body-font);
+  font-weight: 600;
+  min-height: 42px;
+  padding: 8px 18px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition:
+    background-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    border-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+
+  &:hover:not(:disabled) {
+    border-color: var(--md-sys-color-outline);
+  }
+}
+
+@mixin m3-outlined-button {
+  background-color: transparent;
+  color: var(--md-sys-color-on-surface);
+  border: 1px solid var(--md-sys-color-outline);
+  border-radius: var(--md-sys-shape-corner-full);
+  font-family: var(--md-sys-typescale-body-font);
+  font-weight: 600;
+  min-height: 44px;
+  padding: 10px 22px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition:
+    background-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    border-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard),
+    color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+
+  &:hover:not(:disabled) {
+    background-color: var(--md-sys-color-surface-container-high);
+    border-color: var(--md-sys-color-primary);
+    color: var(--md-sys-color-primary);
+  }
+}
+
+@mixin m3-quantity-stepper {
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--md-sys-color-surface-container-high);
+  border: 1px solid var(--md-sys-color-outline-variant);
+  border-radius: var(--md-sys-shape-corner-full);
+  padding: 2px;
+  min-height: 40px;
+
+  .qty-btn {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: none;
+    background: transparent;
+    color: var(--md-sys-color-on-surface);
+    font-size: 1.05rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+
+    &:hover:not(:disabled) {
+      background-color: var(--md-sys-color-primary-container);
+      color: var(--md-sys-color-on-primary-container);
+    }
+
+    &:disabled {
+      opacity: 0.38;
+      cursor: not-allowed;
+    }
+  }
+
+  .qty-value {
+    min-width: 30px;
+    text-align: center;
+    font-family: var(--md-sys-typescale-mono-font);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--md-sys-color-on-surface);
+    padding: 0 4px;
+  }
+}

@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "SKU-SNK-001",
+    "code": "DZ5485-612",
+    "title": "Air Jordan 1 Retro High OG \"Chicago Lost & Found\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Jordan 1 High OG",
+    "description": "Iconic 1985 Chicago colorway reimagined with cracked black leather collar, aged Muslin midsole, and vintage mismatch oxidized box lid.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 6230,
+    "benchmark_retail_price": 8900,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DZ5485-612",
+    "colorway": "Varsity Red / Black-Sail-Muslin",
+    "release_year": 2022,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 8900,
+    "highest_bid_zar": 8188,
+    "last_sale_zar": 8633,
+    "market_change_pct": 16.4,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 8544,
+        "highestBidZar": 7860,
+        "lastSaleZar": 8288,
+        "stockQty": 3,
+        "sku": "DZ5485-612-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 8900,
+        "highestBidZar": 8188,
+        "lastSaleZar": 8633,
+        "stockQty": 5,
+        "sku": "DZ5485-612-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 9256,
+        "highestBidZar": 8516,
+        "lastSaleZar": 8978,
+        "stockQty": 6,
+        "sku": "DZ5485-612-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 9612,
+        "highestBidZar": 8843,
+        "lastSaleZar": 9324,
+        "stockQty": 4,
+        "sku": "DZ5485-612-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 9968,
+        "highestBidZar": 9171,
+        "lastSaleZar": 9669,
+        "stockQty": 2,
+        "sku": "DZ5485-612-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DZ5485-612-US8",
+        "price": 8544,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DZ5485-612-US9",
+        "price": 8900,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DZ5485-612-US10",
+        "price": 9256,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DZ5485-612-US11",
+        "price": 9612,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DZ5485-612-US12",
+        "price": 9968,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-002",
+    "code": "DM7866-162",
+    "title": "Travis Scott x Air Jordan 1 Retro Low OG SP \"Reverse Mocha\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Travis Scott x Jordan",
+    "description": "Cactus Jack collaboration featuring inverted Ridgerock brown Durabuck base, oversized Sail reverse Swoosh, and crimson heel embroidery.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 17150,
+    "benchmark_retail_price": 24500,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DM7866-162",
+    "colorway": "Sail / University Red-Ridgerock",
+    "release_year": 2022,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 24500,
+    "highest_bid_zar": 22540,
+    "last_sale_zar": 23765,
+    "market_change_pct": 28.5,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 23520,
+        "highestBidZar": 21638,
+        "lastSaleZar": 22814,
+        "stockQty": 3,
+        "sku": "DM7866-162-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 24500,
+        "highestBidZar": 22540,
+        "lastSaleZar": 23765,
+        "stockQty": 5,
+        "sku": "DM7866-162-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 25480,
+        "highestBidZar": 23442,
+        "lastSaleZar": 24716,
+        "stockQty": 6,
+        "sku": "DM7866-162-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 26460,
+        "highestBidZar": 24343,
+        "lastSaleZar": 25666,
+        "stockQty": 4,
+        "sku": "DM7866-162-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 27440,
+        "highestBidZar": 25245,
+        "lastSaleZar": 26617,
+        "stockQty": 2,
+        "sku": "DM7866-162-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DM7866-162-US8",
+        "price": 23520,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DM7866-162-US9",
+        "price": 24500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DM7866-162-US10",
+        "price": 25480,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DM7866-162-US11",
+        "price": 26460,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DM7866-162-US12",
+        "price": 27440,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-003",
+    "code": "DR5415-103",
+    "title": "Nike SB x Air Jordan 4 Retro \"Pine Green\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Jordan 4 Retro",
+    "description": "Skate-engineered Air Jordan 4 featuring flexible gum rubber traction pods, deconstructed forefoot cushioning, and Nike SB heel tab branding.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 7840,
+    "benchmark_retail_price": 11200,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DR5415-103",
+    "colorway": "Sail / Pine Green-Neutral Grey-White",
+    "release_year": 2023,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 11200,
+    "highest_bid_zar": 10304,
+    "last_sale_zar": 10864,
+    "market_change_pct": 19.2,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 10752,
+        "highestBidZar": 9892,
+        "lastSaleZar": 10429,
+        "stockQty": 3,
+        "sku": "DR5415-103-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 11200,
+        "highestBidZar": 10304,
+        "lastSaleZar": 10864,
+        "stockQty": 5,
+        "sku": "DR5415-103-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 11648,
+        "highestBidZar": 10716,
+        "lastSaleZar": 11299,
+        "stockQty": 6,
+        "sku": "DR5415-103-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 12096,
+        "highestBidZar": 11128,
+        "lastSaleZar": 11733,
+        "stockQty": 4,
+        "sku": "DR5415-103-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 12544,
+        "highestBidZar": 11540,
+        "lastSaleZar": 12168,
+        "stockQty": 2,
+        "sku": "DR5415-103-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DR5415-103-US8",
+        "price": 10752,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DR5415-103-US9",
+        "price": 11200,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DR5415-103-US10",
+        "price": 11648,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DR5415-103-US11",
+        "price": 12096,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DR5415-103-US12",
+        "price": 12544,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-004",
+    "code": "DM7866-200",
+    "title": "Travis Scott x Air Jordan 1 Low OG SP \"Medium Olive\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Travis Scott x Jordan",
+    "description": "Signature Cactus Jack Low OG silhouette in olive suede and premium white tumbled leather with oversized black reverse Swoosh.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 11760,
+    "benchmark_retail_price": 16800,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DM7866-200",
+    "colorway": "Medium Olive / Black-Sail-Muslin",
+    "release_year": 2024,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 16800,
+    "highest_bid_zar": 15456,
+    "last_sale_zar": 16296,
+    "market_change_pct": 22.1,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 16128,
+        "highestBidZar": 14838,
+        "lastSaleZar": 15644,
+        "stockQty": 3,
+        "sku": "DM7866-200-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 16800,
+        "highestBidZar": 15456,
+        "lastSaleZar": 16296,
+        "stockQty": 5,
+        "sku": "DM7866-200-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 17472,
+        "highestBidZar": 16074,
+        "lastSaleZar": 16948,
+        "stockQty": 6,
+        "sku": "DM7866-200-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 18144,
+        "highestBidZar": 16692,
+        "lastSaleZar": 17600,
+        "stockQty": 4,
+        "sku": "DM7866-200-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 18816,
+        "highestBidZar": 17311,
+        "lastSaleZar": 18252,
+        "stockQty": 2,
+        "sku": "DM7866-200-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DM7866-200-US8",
+        "price": 16128,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DM7866-200-US9",
+        "price": 16800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DM7866-200-US10",
+        "price": 17472,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DM7866-200-US11",
+        "price": 18144,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DM7866-200-US12",
+        "price": 18816,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-005",
+    "code": "FV5029-006",
+    "title": "Air Jordan 4 Retro \"Bred Reimagined\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Jordan 4 Retro",
+    "description": "Heritage 1989 Bred colorway upgraded with supple full-grain tumbled black leather uppers and original Nike Air heel branding.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 4760,
+    "benchmark_retail_price": 6800,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "FV5029-006",
+    "colorway": "Black / Fire Red-Cement Grey-Summit White",
+    "release_year": 2024,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 6800,
+    "highest_bid_zar": 6256,
+    "last_sale_zar": 6596,
+    "market_change_pct": 11.8,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 6528,
+        "highestBidZar": 6006,
+        "lastSaleZar": 6332,
+        "stockQty": 3,
+        "sku": "FV5029-006-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 6800,
+        "highestBidZar": 6256,
+        "lastSaleZar": 6596,
+        "stockQty": 5,
+        "sku": "FV5029-006-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 7072,
+        "highestBidZar": 6506,
+        "lastSaleZar": 6860,
+        "stockQty": 6,
+        "sku": "FV5029-006-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 7344,
+        "highestBidZar": 6756,
+        "lastSaleZar": 7124,
+        "stockQty": 4,
+        "sku": "FV5029-006-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 7616,
+        "highestBidZar": 7007,
+        "lastSaleZar": 7388,
+        "stockQty": 2,
+        "sku": "FV5029-006-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "FV5029-006-US8",
+        "price": 6528,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "FV5029-006-US9",
+        "price": 6800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "FV5029-006-US10",
+        "price": 7072,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "FV5029-006-US11",
+        "price": 7344,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "FV5029-006-US12",
+        "price": 7616,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-006",
+    "code": "CV9388-100",
+    "title": "Off-White x Air Jordan 4 Retro SP \"Sail\"",
+    "brand": "Off-White",
+    "category": "Off-White x Nike",
+    "subcategory": "Off-White Jordan",
+    "description": "Virgil Abloh deconstructed masterpiece with monochromatic Sail leather, exposed foam collar, translucent wings, and \"AIR\" midsole typography.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 18550,
+    "benchmark_retail_price": 26500,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "CV9388-100",
+    "colorway": "Sail / Muslin-White-Black",
+    "release_year": 2020,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 26500,
+    "highest_bid_zar": 24380,
+    "last_sale_zar": 25705,
+    "market_change_pct": 31,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 25440,
+        "highestBidZar": 23405,
+        "lastSaleZar": 24677,
+        "stockQty": 3,
+        "sku": "CV9388-100-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 26500,
+        "highestBidZar": 24380,
+        "lastSaleZar": 25705,
+        "stockQty": 5,
+        "sku": "CV9388-100-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 27560,
+        "highestBidZar": 25355,
+        "lastSaleZar": 26733,
+        "stockQty": 6,
+        "sku": "CV9388-100-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 28620,
+        "highestBidZar": 26330,
+        "lastSaleZar": 27761,
+        "stockQty": 4,
+        "sku": "CV9388-100-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 29680,
+        "highestBidZar": 27306,
+        "lastSaleZar": 28790,
+        "stockQty": 2,
+        "sku": "CV9388-100-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "CV9388-100-US8",
+        "price": 25440,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "CV9388-100-US9",
+        "price": 26500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "CV9388-100-US10",
+        "price": 27560,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "CV9388-100-US11",
+        "price": 28620,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "CV9388-100-US12",
+        "price": 29680,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-007",
+    "code": "CI1173-400",
+    "title": "Off-White x Nike Air Force 1 Low \"MCA University Blue\"",
+    "brand": "Off-White",
+    "category": "Off-White x Nike",
+    "subcategory": "Off-White The Ten",
+    "description": "Museum of Contemporary Art Chicago exclusive Air Force 1 with metallic silver stitched Swoosh, red zip-tie, and exposed foam tongue.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 23800,
+    "benchmark_retail_price": 34000,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "CI1173-400",
+    "colorway": "University Blue / White-Metallic Silver-Black",
+    "release_year": 2019,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 34000,
+    "highest_bid_zar": 31280,
+    "last_sale_zar": 32980,
+    "market_change_pct": 34.6,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 32640,
+        "highestBidZar": 30029,
+        "lastSaleZar": 31661,
+        "stockQty": 3,
+        "sku": "CI1173-400-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 34000,
+        "highestBidZar": 31280,
+        "lastSaleZar": 32980,
+        "stockQty": 5,
+        "sku": "CI1173-400-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 35360,
+        "highestBidZar": 32531,
+        "lastSaleZar": 34299,
+        "stockQty": 6,
+        "sku": "CI1173-400-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 36720,
+        "highestBidZar": 33782,
+        "lastSaleZar": 35618,
+        "stockQty": 4,
+        "sku": "CI1173-400-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 38080,
+        "highestBidZar": 35034,
+        "lastSaleZar": 36938,
+        "stockQty": 2,
+        "sku": "CI1173-400-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "CI1173-400-US8",
+        "price": 32640,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "CI1173-400-US9",
+        "price": 34000,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "CI1173-400-US10",
+        "price": 35360,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "CI1173-400-US11",
+        "price": 36720,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "CI1173-400-US12",
+        "price": 38080,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-008",
+    "code": "DM1602-127",
+    "title": "Off-White x Nike Dunk Low \"Lot 01 of 50\"",
+    "brand": "Off-White",
+    "category": "Off-White x Nike",
+    "subcategory": "Off-White Dunk Lot",
+    "description": "Coveted Lot 01 from Virgil Abloh Dear Summer collection featuring dual overlace system, metallic silver Swoosh, and yellowed vintage midsole.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 12950,
+    "benchmark_retail_price": 18500,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DM1602-127",
+    "colorway": "White / Metallic Silver-Butter",
+    "release_year": 2021,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 18500,
+    "highest_bid_zar": 17020,
+    "last_sale_zar": 17945,
+    "market_change_pct": 21.4,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 17760,
+        "highestBidZar": 16339,
+        "lastSaleZar": 17227,
+        "stockQty": 3,
+        "sku": "DM1602-127-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 18500,
+        "highestBidZar": 17020,
+        "lastSaleZar": 17945,
+        "stockQty": 5,
+        "sku": "DM1602-127-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 19240,
+        "highestBidZar": 17701,
+        "lastSaleZar": 18663,
+        "stockQty": 6,
+        "sku": "DM1602-127-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 19980,
+        "highestBidZar": 18382,
+        "lastSaleZar": 19381,
+        "stockQty": 4,
+        "sku": "DM1602-127-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 20720,
+        "highestBidZar": 19062,
+        "lastSaleZar": 20098,
+        "stockQty": 2,
+        "sku": "DM1602-127-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DM1602-127-US8",
+        "price": 17760,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DM1602-127-US9",
+        "price": 18500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DM1602-127-US10",
+        "price": 19240,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DM1602-127-US11",
+        "price": 19980,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DM1602-127-US12",
+        "price": 20720,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-009",
+    "code": "AA3830-001",
+    "title": "Off-White x Nike Air Presto \"The Ten OG\"",
+    "brand": "Off-White",
+    "category": "Off-White x Nike",
+    "subcategory": "Off-White The Ten",
+    "description": "Original 2017 The Ten release by Virgil Abloh with deconstructed mesh upper, stitched white Swoosh, orange tab, and \"SHOELACES\" branding.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 26600,
+    "benchmark_retail_price": 38000,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "AA3830-001",
+    "colorway": "Black / Black-Muslin",
+    "release_year": 2017,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 38000,
+    "highest_bid_zar": 34960,
+    "last_sale_zar": 36860,
+    "market_change_pct": 29.8,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 36480,
+        "highestBidZar": 33562,
+        "lastSaleZar": 35386,
+        "stockQty": 3,
+        "sku": "AA3830-001-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 38000,
+        "highestBidZar": 34960,
+        "lastSaleZar": 36860,
+        "stockQty": 5,
+        "sku": "AA3830-001-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 39520,
+        "highestBidZar": 36358,
+        "lastSaleZar": 38334,
+        "stockQty": 6,
+        "sku": "AA3830-001-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 41040,
+        "highestBidZar": 37757,
+        "lastSaleZar": 39809,
+        "stockQty": 4,
+        "sku": "AA3830-001-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 42560,
+        "highestBidZar": 39155,
+        "lastSaleZar": 41283,
+        "stockQty": 2,
+        "sku": "AA3830-001-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "AA3830-001-US8",
+        "price": 36480,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "AA3830-001-US9",
+        "price": 38000,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "AA3830-001-US10",
+        "price": 39520,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "AA3830-001-US11",
+        "price": 41040,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "AA3830-001-US12",
+        "price": 42560,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-010",
+    "code": "AQ0818-148",
+    "title": "Off-White x Air Jordan 1 Retro High OG \"UNC\"",
+    "brand": "Off-White",
+    "category": "Off-White x Nike",
+    "subcategory": "Off-White Jordan",
+    "description": "Carolina Blue edition of Virgil Abloh Air Jordan 1 featuring floating ankle flaps, industrial medial text stamp, and orange stitch tabs.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 22750,
+    "benchmark_retail_price": 32500,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "AQ0818-148",
+    "colorway": "White / Dark Powder Blue-Cone",
+    "release_year": 2018,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 32500,
+    "highest_bid_zar": 29900,
+    "last_sale_zar": 31525,
+    "market_change_pct": 27.3,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 31200,
+        "highestBidZar": 28704,
+        "lastSaleZar": 30264,
+        "stockQty": 3,
+        "sku": "AQ0818-148-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 32500,
+        "highestBidZar": 29900,
+        "lastSaleZar": 31525,
+        "stockQty": 5,
+        "sku": "AQ0818-148-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 33800,
+        "highestBidZar": 31096,
+        "lastSaleZar": 32786,
+        "stockQty": 6,
+        "sku": "AQ0818-148-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 35100,
+        "highestBidZar": 32292,
+        "lastSaleZar": 34047,
+        "stockQty": 4,
+        "sku": "AQ0818-148-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 36400,
+        "highestBidZar": 33488,
+        "lastSaleZar": 35308,
+        "stockQty": 2,
+        "sku": "AQ0818-148-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "AQ0818-148-US8",
+        "price": 31200,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "AQ0818-148-US9",
+        "price": 32500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "AQ0818-148-US10",
+        "price": 33800,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "AQ0818-148-US11",
+        "price": 35100,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "AQ0818-148-US12",
+        "price": 36400,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-011",
+    "code": "FD8778-001",
+    "title": "Supreme x Nike SB Dunk Low \"Rammellzee\"",
+    "brand": "Supreme",
+    "category": "Dunk & SB Grail",
+    "subcategory": "Supreme x Nike SB",
+    "description": "Collaborative Nike SB Dunk Low featuring late NYC artist Rammellzee gothic futurism artwork on canvas panels with black suede overlays and Gold Supreme lace dubrae.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 7350,
+    "benchmark_retail_price": 10500,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "FD8778-001",
+    "colorway": "Black / Black-Multi-Color",
+    "release_year": 2023,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 10500,
+    "highest_bid_zar": 9660,
+    "last_sale_zar": 10185,
+    "market_change_pct": 18.7,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 10080,
+        "highestBidZar": 9274,
+        "lastSaleZar": 9778,
+        "stockQty": 3,
+        "sku": "FD8778-001-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 10500,
+        "highestBidZar": 9660,
+        "lastSaleZar": 10185,
+        "stockQty": 5,
+        "sku": "FD8778-001-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 10920,
+        "highestBidZar": 10046,
+        "lastSaleZar": 10592,
+        "stockQty": 6,
+        "sku": "FD8778-001-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 11340,
+        "highestBidZar": 10433,
+        "lastSaleZar": 11000,
+        "stockQty": 4,
+        "sku": "FD8778-001-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 11760,
+        "highestBidZar": 10819,
+        "lastSaleZar": 11407,
+        "stockQty": 2,
+        "sku": "FD8778-001-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "FD8778-001-US8",
+        "price": 10080,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "FD8778-001-US9",
+        "price": 10500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "FD8778-001-US10",
+        "price": 10920,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "FD8778-001-US11",
+        "price": 11340,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "FD8778-001-US12",
+        "price": 11760,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-012",
+    "code": "DN3741-700",
+    "title": "Supreme x Nike SB Dunk High \"By Any Means Brazil\"",
+    "brand": "Supreme",
+    "category": "Dunk & SB Grail",
+    "subcategory": "Supreme x Nike SB",
+    "description": "Supreme NYC embroidered \"By Any Means\" heel typography with No ❤️ forefoot hit and two-tone Brazil leather panels.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 4130,
+    "benchmark_retail_price": 5900,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DN3741-700",
+    "colorway": "Varsity Maize / Pine Green-White",
+    "release_year": 2022,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 5900,
+    "highest_bid_zar": 5428,
+    "last_sale_zar": 5723,
+    "market_change_pct": 9.4,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 5664,
+        "highestBidZar": 5211,
+        "lastSaleZar": 5494,
+        "stockQty": 3,
+        "sku": "DN3741-700-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 5900,
+        "highestBidZar": 5428,
+        "lastSaleZar": 5723,
+        "stockQty": 5,
+        "sku": "DN3741-700-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 6136,
+        "highestBidZar": 5645,
+        "lastSaleZar": 5952,
+        "stockQty": 6,
+        "sku": "DN3741-700-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 6372,
+        "highestBidZar": 5862,
+        "lastSaleZar": 6181,
+        "stockQty": 4,
+        "sku": "DN3741-700-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 6608,
+        "highestBidZar": 6079,
+        "lastSaleZar": 6410,
+        "stockQty": 2,
+        "sku": "DN3741-700-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DN3741-700-US8",
+        "price": 5664,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DN3741-700-US9",
+        "price": 5900,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DN3741-700-US10",
+        "price": 6136,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DN3741-700-US11",
+        "price": 6372,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DN3741-700-US12",
+        "price": 6608,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-013",
+    "code": "CQ5486-200",
+    "title": "Stüssy x Nike Air Zoom Spiridon Cage 2 \"Fossil\"",
+    "brand": "Stüssy",
+    "category": "Archive Runners & Collabs",
+    "subcategory": "Stüssy x Nike",
+    "description": "Organic coarse hemp canvas upper in monochromatic Fossil beige paired with painted black Swoosh and caged Zoom Air heel unit.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 6580,
+    "benchmark_retail_price": 9400,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "CQ5486-200",
+    "colorway": "Fossil / Black-Fossil",
+    "release_year": 2020,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 9400,
+    "highest_bid_zar": 8648,
+    "last_sale_zar": 9118,
+    "market_change_pct": 15.2,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 9024,
+        "highestBidZar": 8302,
+        "lastSaleZar": 8753,
+        "stockQty": 3,
+        "sku": "CQ5486-200-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 9400,
+        "highestBidZar": 8648,
+        "lastSaleZar": 9118,
+        "stockQty": 5,
+        "sku": "CQ5486-200-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 9776,
+        "highestBidZar": 8994,
+        "lastSaleZar": 9483,
+        "stockQty": 6,
+        "sku": "CQ5486-200-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 10152,
+        "highestBidZar": 9340,
+        "lastSaleZar": 9847,
+        "stockQty": 4,
+        "sku": "CQ5486-200-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 10528,
+        "highestBidZar": 9686,
+        "lastSaleZar": 10212,
+        "stockQty": 2,
+        "sku": "CQ5486-200-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "CQ5486-200-US8",
+        "price": 9024,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "CQ5486-200-US9",
+        "price": 9400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "CQ5486-200-US10",
+        "price": 9776,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "CQ5486-200-US11",
+        "price": 10152,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "CQ5486-200-US12",
+        "price": 10528,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-014",
+    "code": "DJ7840-002",
+    "title": "Stüssy x Nike Air Force 1 Mid \"Black White\"",
+    "brand": "Stüssy",
+    "category": "Archive Runners & Collabs",
+    "subcategory": "Stüssy x Nike",
+    "description": "Tumbled two-tone leather mid-top featuring interlocking Stüssy S perforations on the toebox, embroidered strap, and jewel heel medallion.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 3780,
+    "benchmark_retail_price": 5400,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DJ7840-002",
+    "colorway": "Black / Black-White",
+    "release_year": 2022,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 5400,
+    "highest_bid_zar": 4968,
+    "last_sale_zar": 5238,
+    "market_change_pct": 8.6,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 5184,
+        "highestBidZar": 4769,
+        "lastSaleZar": 5028,
+        "stockQty": 3,
+        "sku": "DJ7840-002-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 5400,
+        "highestBidZar": 4968,
+        "lastSaleZar": 5238,
+        "stockQty": 5,
+        "sku": "DJ7840-002-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 5616,
+        "highestBidZar": 5167,
+        "lastSaleZar": 5448,
+        "stockQty": 6,
+        "sku": "DJ7840-002-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 5832,
+        "highestBidZar": 5365,
+        "lastSaleZar": 5657,
+        "stockQty": 4,
+        "sku": "DJ7840-002-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 6048,
+        "highestBidZar": 5564,
+        "lastSaleZar": 5867,
+        "stockQty": 2,
+        "sku": "DJ7840-002-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DJ7840-002-US8",
+        "price": 5184,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DJ7840-002-US9",
+        "price": 5400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DJ7840-002-US10",
+        "price": 5616,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DJ7840-002-US11",
+        "price": 5832,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DJ7840-002-US12",
+        "price": 6048,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-015",
+    "code": "FV4921-600",
+    "title": "Nike Kobe 6 Protro \"Reverse Grinch\"",
+    "brand": "Nike",
+    "category": "Dunk & SB Grail",
+    "subcategory": "Kobe Protro",
+    "description": "Inverted reptilian Bright Crimson scaly upper with Electric Green laces and Mamba Swoosh, powered by responsive Air Zoom Turbo cushioning.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 6860,
+    "benchmark_retail_price": 9800,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "FV4921-600",
+    "colorway": "Bright Crimson / Black-Electric Green",
+    "release_year": 2023,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 9800,
+    "highest_bid_zar": 9016,
+    "last_sale_zar": 9506,
+    "market_change_pct": 20.5,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 9408,
+        "highestBidZar": 8655,
+        "lastSaleZar": 9126,
+        "stockQty": 3,
+        "sku": "FV4921-600-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 9800,
+        "highestBidZar": 9016,
+        "lastSaleZar": 9506,
+        "stockQty": 5,
+        "sku": "FV4921-600-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 10192,
+        "highestBidZar": 9377,
+        "lastSaleZar": 9886,
+        "stockQty": 6,
+        "sku": "FV4921-600-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 10584,
+        "highestBidZar": 9737,
+        "lastSaleZar": 10266,
+        "stockQty": 4,
+        "sku": "FV4921-600-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 10976,
+        "highestBidZar": 10098,
+        "lastSaleZar": 10647,
+        "stockQty": 2,
+        "sku": "FV4921-600-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "FV4921-600-US8",
+        "price": 9408,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "FV4921-600-US9",
+        "price": 9800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "FV4921-600-US10",
+        "price": 10192,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "FV4921-600-US11",
+        "price": 10584,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "FV4921-600-US12",
+        "price": 10976,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-016",
+    "code": "CT5053-001",
+    "title": "Travis Scott x Nike SB Dunk Low \"Cactus Jack\"",
+    "brand": "Nike",
+    "category": "Dunk & SB Grail",
+    "subcategory": "SB Dunk Low",
+    "description": "Tear-away paisley bandana canvas panels over elephant print cement leather, plaid quarter panels, and thick rope skate laces.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 19530,
+    "benchmark_retail_price": 27900,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "CT5053-001",
+    "colorway": "Black / Black-Parachute Beige-Petra Brown",
+    "release_year": 2020,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 27900,
+    "highest_bid_zar": 25668,
+    "last_sale_zar": 27063,
+    "market_change_pct": 25.4,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 26784,
+        "highestBidZar": 24641,
+        "lastSaleZar": 25980,
+        "stockQty": 3,
+        "sku": "CT5053-001-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 27900,
+        "highestBidZar": 25668,
+        "lastSaleZar": 27063,
+        "stockQty": 5,
+        "sku": "CT5053-001-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 29016,
+        "highestBidZar": 26695,
+        "lastSaleZar": 28146,
+        "stockQty": 6,
+        "sku": "CT5053-001-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 30132,
+        "highestBidZar": 27721,
+        "lastSaleZar": 29228,
+        "stockQty": 4,
+        "sku": "CT5053-001-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 31248,
+        "highestBidZar": 28748,
+        "lastSaleZar": 30311,
+        "stockQty": 2,
+        "sku": "CT5053-001-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "CT5053-001-US8",
+        "price": 26784,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "CT5053-001-US9",
+        "price": 27900,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "CT5053-001-US10",
+        "price": 29016,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "CT5053-001-US11",
+        "price": 30132,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "CT5053-001-US12",
+        "price": 31248,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-017",
+    "code": "DN3707-100",
+    "title": "Air Jordan 3 Retro \"White Cement Reimagined\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Jordan 3 Retro",
+    "description": "1988 Free Throw Line silhouette built to original shape specs with vintage elephant print overlays and Nike Air heel tab.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 5040,
+    "benchmark_retail_price": 7200,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "DN3707-100",
+    "colorway": "Summit White / Fire Red-Black-Cement Grey",
+    "release_year": 2023,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 7200,
+    "highest_bid_zar": 6624,
+    "last_sale_zar": 6984,
+    "market_change_pct": 12.9,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 6912,
+        "highestBidZar": 6359,
+        "lastSaleZar": 6705,
+        "stockQty": 3,
+        "sku": "DN3707-100-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 7200,
+        "highestBidZar": 6624,
+        "lastSaleZar": 6984,
+        "stockQty": 5,
+        "sku": "DN3707-100-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 7488,
+        "highestBidZar": 6889,
+        "lastSaleZar": 7263,
+        "stockQty": 6,
+        "sku": "DN3707-100-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 7776,
+        "highestBidZar": 7154,
+        "lastSaleZar": 7543,
+        "stockQty": 4,
+        "sku": "DN3707-100-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 8064,
+        "highestBidZar": 7419,
+        "lastSaleZar": 7822,
+        "stockQty": 2,
+        "sku": "DN3707-100-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "DN3707-100-US8",
+        "price": 6912,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "DN3707-100-US9",
+        "price": 7200,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "DN3707-100-US10",
+        "price": 7488,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "DN3707-100-US11",
+        "price": 7776,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "DN3707-100-US12",
+        "price": 8064,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-018",
+    "code": "BV1300-106",
+    "title": "Union LA x Air Jordan 1 Retro High NRG \"Black Toe\"",
+    "brand": "Jordan",
+    "category": "Jordan Retro",
+    "subcategory": "Jordan 1 High OG",
+    "description": "Chris Gibbs DIY thrift-inspired Jordan 1 stitching a Neutral Grey ankle collar onto a Black Toe base with UN/LA yellow tag.",
+    "unit": "Pair (Deadstock)",
+    "tier": "B2B",
+    "wholesale_cost": 21700,
+    "benchmark_retail_price": 31000,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "BV1300-106",
+    "colorway": "White / Black-Varsity Red-Wolf Grey",
+    "release_year": 2018,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 31000,
+    "highest_bid_zar": 28520,
+    "last_sale_zar": 30070,
+    "market_change_pct": 26.8,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 29760,
+        "highestBidZar": 27379,
+        "lastSaleZar": 28867,
+        "stockQty": 3,
+        "sku": "BV1300-106-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 31000,
+        "highestBidZar": 28520,
+        "lastSaleZar": 30070,
+        "stockQty": 5,
+        "sku": "BV1300-106-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 32240,
+        "highestBidZar": 29661,
+        "lastSaleZar": 31273,
+        "stockQty": 6,
+        "sku": "BV1300-106-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 33480,
+        "highestBidZar": 30802,
+        "lastSaleZar": 32476,
+        "stockQty": 4,
+        "sku": "BV1300-106-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 34720,
+        "highestBidZar": 31942,
+        "lastSaleZar": 33678,
+        "stockQty": 2,
+        "sku": "BV1300-106-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "BV1300-106-US8",
+        "price": 29760,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "BV1300-106-US9",
+        "price": 31000,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "BV1300-106-US10",
+        "price": 32240,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "BV1300-106-US11",
+        "price": 33480,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "BV1300-106-US12",
+        "price": 34720,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-019",
+    "code": "M990GL6",
+    "title": "New Balance 990v6 Made in USA \"Castlerock Grey\"",
+    "brand": "New Balance",
+    "category": "Archive Runners & Collabs",
+    "subcategory": "Made in USA Runner",
+    "description": "Teddy Santis Made in USA Seasonal flagship runner combining pigskin suede, breathable mesh, and FuelCell + ENCAP midsole technology.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 3920,
+    "benchmark_retail_price": 5600,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "M990GL6",
+    "colorway": "Grey / Castlerock-White",
+    "release_year": 2023,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 5600,
+    "highest_bid_zar": 5152,
+    "last_sale_zar": 5432,
+    "market_change_pct": 10.1,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 5376,
+        "highestBidZar": 4946,
+        "lastSaleZar": 5215,
+        "stockQty": 3,
+        "sku": "M990GL6-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 5600,
+        "highestBidZar": 5152,
+        "lastSaleZar": 5432,
+        "stockQty": 5,
+        "sku": "M990GL6-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 5824,
+        "highestBidZar": 5358,
+        "lastSaleZar": 5649,
+        "stockQty": 6,
+        "sku": "M990GL6-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 6048,
+        "highestBidZar": 5564,
+        "lastSaleZar": 5867,
+        "stockQty": 4,
+        "sku": "M990GL6-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 6272,
+        "highestBidZar": 5770,
+        "lastSaleZar": 6084,
+        "stockQty": 2,
+        "sku": "M990GL6-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "M990GL6-US8",
+        "price": 5376,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "M990GL6-US9",
+        "price": 5600,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "M990GL6-US10",
+        "price": 5824,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "M990GL6-US11",
+        "price": 6048,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "M990GL6-US12",
+        "price": 6272,
+        "stockQty": 2
+      }
+    ]
+  },
+  {
+    "id": "SKU-SNK-020",
+    "code": "CP9654",
+    "title": "Adidas Yeezy Boost 350 V2 \"Zebra\"",
+    "brand": "Adidas",
+    "category": "Archive Runners & Collabs",
+    "subcategory": "Yeezy Archive",
+    "description": "Swirling black and white Primeknit upper accented by reversed red SPLY-350 lateral lettering and full-length translucent Boost cushioning.",
+    "unit": "Pair (Deadstock)",
+    "tier": "Retail",
+    "wholesale_cost": 5180,
+    "benchmark_retail_price": 7400,
+    "target_margin_pct": 30,
+    "packaging": "OG All — Original Box, Extra Laces & KULTUREVAULT RFID Tag",
+    "shelf_life": "Deadstock Vault Condition (100% Unworn)",
+    "stock_qty": 20,
+    "is_active": true,
+    "style_code": "CP9654",
+    "colorway": "White / Core Black-Red",
+    "release_year": 2022,
+    "authentication_badge": "12-Point Lab Verified • UV & RFID Deadstock Tag",
+    "box_condition": "OG All — Pristine Retail Box & Silica Sealed",
+    "lowest_ask_zar": 7400,
+    "highest_bid_zar": 6808,
+    "last_sale_zar": 7178,
+    "market_change_pct": 13.7,
+    "size_matrix": [
+      {
+        "sizeUs": "US 8",
+        "sizeUk": "UK 7",
+        "lowestAskZar": 7104,
+        "highestBidZar": 6536,
+        "lastSaleZar": 6891,
+        "stockQty": 3,
+        "sku": "CP9654-US8"
+      },
+      {
+        "sizeUs": "US 9",
+        "sizeUk": "UK 8",
+        "lowestAskZar": 7400,
+        "highestBidZar": 6808,
+        "lastSaleZar": 7178,
+        "stockQty": 5,
+        "sku": "CP9654-US9"
+      },
+      {
+        "sizeUs": "US 10",
+        "sizeUk": "UK 9",
+        "lowestAskZar": 7696,
+        "highestBidZar": 7080,
+        "lastSaleZar": 7465,
+        "stockQty": 6,
+        "sku": "CP9654-US10"
+      },
+      {
+        "sizeUs": "US 11",
+        "sizeUk": "UK 10",
+        "lowestAskZar": 7992,
+        "highestBidZar": 7353,
+        "lastSaleZar": 7752,
+        "stockQty": 4,
+        "sku": "CP9654-US11"
+      },
+      {
+        "sizeUs": "US 12",
+        "sizeUk": "UK 11",
+        "lowestAskZar": 8288,
+        "highestBidZar": 7625,
+        "lastSaleZar": 8039,
+        "stockQty": 2,
+        "sku": "CP9654-US12"
+      }
+    ],
+    "variants": [
+      {
+        "optionValue": "US 8 / UK 7",
+        "sku": "CP9654-US8",
+        "price": 7104,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "US 9 / UK 8",
+        "sku": "CP9654-US9",
+        "price": 7400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "US 10 / UK 9",
+        "sku": "CP9654-US10",
+        "price": 7696,
+        "stockQty": 6
+      },
+      {
+        "optionValue": "US 11 / UK 10",
+        "sku": "CP9654-US11",
+        "price": 7992,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "US 12 / UK 11",
+        "sku": "CP9654-US12",
+        "price": 8288,
+        "stockQty": 2
+      }
+    ]
+  }
+]

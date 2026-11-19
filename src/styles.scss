@@ -1,0 +1,101 @@
+/**
+ * KULTUREVAULT Exchange Multi-Shop Design System (Material Design 3 / Material You)
+ * Zero-hack SCSS architecture:
+ * - Foundational HCT tokens: src/styles/_m3-tokens.scss
+ * - Reusable M3 component mixins: src/styles/_m3-mixins.scss
+ * - Per-shop bounded SCSS themes:
+ *     1. src/app/shops/sneakers/styles/_sneakers-theme.scss
+ *     2. src/app/shops/streetwear/styles/_streetwear-theme.scss
+ *     3. src/app/shops/collectibles/styles/_collectibles-theme.scss
+ */
+
+@use './styles/m3-tokens';
+@use './styles/m3-mixins' as m3;
+@use './app/shops/sneakers/styles/sneakers-theme';
+@use './app/shops/streetwear/styles/streetwear-theme';
+@use './app/shops/collectibles/styles/collectibles-theme';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--md-sys-typescale-body-font);
+  background-color: var(--md-sys-color-surface-container-low);
+  color: var(--md-sys-color-on-surface);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  transition:
+    background-color var(--md-sys-motion-duration-medium) var(--md-sys-motion-easing-standard),
+    color var(--md-sys-motion-duration-medium) var(--md-sys-motion-easing-standard);
+}
+
+h1,
+h2,
+h3,
+.serif-heading {
+  font-family: var(--md-sys-typescale-heading-font);
+  letter-spacing: -0.02em;
+}
+
+code,
+.mono {
+  font-family: var(--md-sys-typescale-mono-font);
+  font-variant-numeric: tabular-nums;
+}
+
+a {
+  color: var(--md-sys-color-primary);
+  text-decoration: none;
+  transition: color var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+
+  &:hover {
+    color: var(--md-sys-color-primary-fixed-dim);
+  }
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.btn-primary {
+  @include m3.m3-filled-button(var(--md-sys-color-primary), var(--md-sys-color-on-primary));
+  font-size: 0.92rem;
+}
+
+.btn-outline {
+  @include m3.m3-outlined-button;
+  font-size: 0.92rem;
+}
+
+.badge {
+  background-color: var(--md-sys-color-secondary-container);
+  color: var(--md-sys-color-on-secondary-container);
+  border: 1px solid var(--md-sys-color-outline-variant);
+  padding: 5px 12px;
+  border-radius: var(--md-sys-shape-corner-full);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.mat-elevation-1 {
+  box-shadow: var(--md-sys-elevation-level1);
+}
+
+.mat-elevation-2 {
+  box-shadow: var(--md-sys-elevation-level2);
+}
+
+.mat-elevation-3 {
+  box-shadow: var(--md-sys-elevation-level3);
+}

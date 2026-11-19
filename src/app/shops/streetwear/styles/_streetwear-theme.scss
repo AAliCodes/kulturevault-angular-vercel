@@ -1,0 +1,47 @@
+/**
+ * KULTUREVAULT // Streetwear & Apparel Archive — Material You (M3 HCT) Light Theme Partial
+ * Palette: Supreme Signal Crimson (#D90429), Off-White Gallery Chalk (#FFFFFF..#DFD9CC), Industrial Hazard Amber (#D97706)
+ */
+
+:root[data-shop-theme='streetwear'] {
+  color-scheme: light;
+
+  --md-sys-color-primary: #D90429;
+  --md-sys-color-on-primary: #FFFFFF;
+  --md-sys-color-primary-container: #FFDAD6;
+  --md-sys-color-on-primary-container: #410002;
+  --md-sys-color-primary-fixed-dim: #B00220;
+
+  --md-sys-color-secondary: #111111;
+  --md-sys-color-on-secondary: #FFFFFF;
+  --md-sys-color-secondary-container: #E8E4DC;
+  --md-sys-color-on-secondary-container: #18181B;
+
+  --md-sys-color-tertiary: #D97706;
+  --md-sys-color-on-tertiary: #FFFFFF;
+  --md-sys-color-tertiary-container: #FEF3C7;
+  --md-sys-color-on-tertiary-container: #451A03;
+
+  --md-sys-color-background: #F4F1EA;
+  --md-sys-color-on-background: #111111;
+  --md-sys-color-surface: #FAF8F5;
+  --md-sys-color-on-surface: #111111;
+  --md-sys-color-on-surface-variant: #44403C;
+
+  --md-sys-color-surface-container-lowest: #FFFFFF;
+  --md-sys-color-surface-container-low: #FAF8F5;
+  --md-sys-color-surface-container: #F4F1EA;
+  --md-sys-color-surface-container-high: #EAE5DB;
+  --md-sys-color-surface-container-highest: #DFD9CC;
+
+  --md-sys-color-outline: #78716C;
+  --md-sys-color-outline-variant: #D6D0C4;
+
+  --md-sys-elevation-level1: 0 3px 12px rgba(17, 17, 17, 0.06);
+  --md-sys-elevation-level2: 0 8px 24px rgba(217, 4, 41, 0.12);
+  --md-sys-elevation-level3: 0 14px 32px rgba(17, 17, 17, 0.14);
+
+  --md-sys-typescale-heading-font: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
+  --md-sys-typescale-body-font: 'Inter', system-ui, -apple-system, sans-serif;
+  --md-sys-typescale-mono-font: 'JetBrains Mono', 'Fira Code', monospace;
+}
