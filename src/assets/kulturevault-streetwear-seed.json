@@ -55,7 +55,8 @@
         "price": 9200,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-001.jpg"
   },
   {
     "id": "SKU-STR-002",
@@ -113,7 +114,8 @@
         "price": 17500,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-002.jpg"
   },
   {
     "id": "SKU-STR-003",
@@ -171,7 +173,8 @@
         "price": 7800,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-003.jpg"
   },
   {
     "id": "SKU-STR-004",
@@ -229,7 +232,8 @@
         "price": 6900,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-004.jpg"
   },
   {
     "id": "SKU-STR-005",
@@ -287,7 +291,8 @@
         "price": 15800,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-005.jpg"
   },
   {
     "id": "SKU-STR-006",
@@ -345,7 +350,8 @@
         "price": 11400,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-006.jpg"
   },
   {
     "id": "SKU-STR-007",
@@ -403,7 +409,8 @@
         "price": 23500,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-007.jpg"
   },
   {
     "id": "SKU-STR-008",
@@ -461,7 +468,8 @@
         "price": 5400,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-008.jpg"
   },
   {
     "id": "SKU-STR-009",
@@ -519,7 +527,8 @@
         "price": 4200,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-009.jpg"
   },
   {
     "id": "SKU-STR-010",
@@ -577,7 +586,8 @@
         "price": 10800,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-010.jpg"
   },
   {
     "id": "SKU-STR-011",
@@ -635,7 +645,8 @@
         "price": 2400,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-011.jpg"
   },
   {
     "id": "SKU-STR-012",
@@ -693,7 +704,8 @@
         "price": 4600,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-012.jpg"
   },
   {
     "id": "SKU-STR-013",
@@ -751,7 +763,8 @@
         "price": 4900,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-013.jpg"
   },
   {
     "id": "SKU-STR-014",
@@ -809,7 +822,8 @@
         "price": 5200,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-014.jpg"
   },
   {
     "id": "SKU-STR-015",
@@ -867,7 +881,8 @@
         "price": 6400,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-015.jpg"
   },
   {
     "id": "SKU-STR-016",
@@ -925,6 +940,7 @@
         "price": 5600,
         "stockQty": 3
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-STR-016.jpg"
   }
 ]

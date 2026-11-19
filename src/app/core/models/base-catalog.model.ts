@@ -34,6 +34,7 @@ export interface BaseCatalogProduct {
   readonly shelf_life: string;
   readonly stock_qty: number;
   readonly is_active: boolean;
+  readonly image_url: string;
   readonly lowest_ask_zar: number;
   readonly highest_bid_zar: number;
   readonly last_sale_zar: number;

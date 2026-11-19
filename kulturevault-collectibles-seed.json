@@ -31,7 +31,8 @@
         "price": 16500,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-001.jpg"
   },
   {
     "id": "SKU-COL-002",
@@ -65,7 +66,8 @@
         "price": 7800,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-002.jpg"
   },
   {
     "id": "SKU-COL-003",
@@ -99,7 +101,8 @@
         "price": 11800,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-003.jpg"
   },
   {
     "id": "SKU-COL-004",
@@ -133,7 +136,8 @@
         "price": 9600,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-004.jpg"
   },
   {
     "id": "SKU-COL-005",
@@ -167,7 +171,8 @@
         "price": 3800,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-005.jpg"
   },
   {
     "id": "SKU-COL-006",
@@ -201,7 +206,8 @@
         "price": 2900,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-006.jpg"
   },
   {
     "id": "SKU-COL-007",
@@ -235,7 +241,8 @@
         "price": 3400,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-007.jpg"
   },
   {
     "id": "SKU-COL-008",
@@ -269,7 +276,8 @@
         "price": 5400,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-008.jpg"
   },
   {
     "id": "SKU-COL-009",
@@ -303,7 +311,8 @@
         "price": 19200,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-009.jpg"
   },
   {
     "id": "SKU-COL-010",
@@ -337,7 +346,8 @@
         "price": 9800,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-010.jpg"
   },
   {
     "id": "SKU-COL-011",
@@ -371,7 +381,8 @@
         "price": 4900,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-011.jpg"
   },
   {
     "id": "SKU-COL-012",
@@ -405,7 +416,8 @@
         "price": 1900,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-012.jpg"
   },
   {
     "id": "SKU-COL-013",
@@ -439,7 +451,8 @@
         "price": 3600,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-013.jpg"
   },
   {
     "id": "SKU-COL-014",
@@ -473,6 +486,7 @@
         "price": 4500,
         "stockQty": 8
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-COL-014.jpg"
   }
 ]

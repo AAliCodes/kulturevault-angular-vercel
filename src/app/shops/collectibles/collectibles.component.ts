@@ -150,6 +150,16 @@ import { CollectiblesShopService } from './services/collectibles-shop.service';
                 <span class="volatility-pill mono">+{{ product.market_change_pct }}%</span>
               </div>
 
+              <!-- Studio Collectible Photo Stage -->
+              <div class="product-media-stage">
+                <img
+                  class="product-photo"
+                  [src]="product.image_url"
+                  [alt]="product.title"
+                />
+                <span class="verified-chip-overlay">✓ Hologram / Serial Verified</span>
+              </div>
+
               <div class="card-body">
                 <span class="sku-code mono">{{ product.code }}</span>
                 <h2 class="product-title">{{ product.title }}</h2>

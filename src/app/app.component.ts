@@ -195,16 +195,23 @@ export { StoreDepartment } from './models/product.model';
             @for (item of cartService.cartItems(); track item.cartItemId) {
               <div class="cart-row">
                 <div class="cart-row-main">
-                  <div class="cart-row-title">
-                    <h4>{{ item.product.title }}</h4>
-                    <span class="badge-portion">
-                      {{ item.optionSelection }} &bull;
-                      {{
-                        item.orderType === OrderTypeEnum.PLACE_BID
-                          ? t('shell.item.bidBadge')
-                          : t('shell.item.buyNowBadge')
-                      }}
-                    </span>
+                  <div class="cart-row-header-flex">
+                    <img
+                      class="cart-row-thumb"
+                      [src]="item.product.image_url"
+                      [alt]="item.product.title"
+                    />
+                    <div class="cart-row-title">
+                      <h4>{{ item.product.title }}</h4>
+                      <span class="badge-portion">
+                        {{ item.optionSelection }} &bull;
+                        {{
+                          item.orderType === OrderTypeEnum.PLACE_BID
+                            ? t('shell.item.bidBadge')
+                            : t('shell.item.buyNowBadge')
+                        }}
+                      </span>
+                    </div>
                   </div>
                   <div class="cart-row-meta mono">
                     <span>{{ cartService.formatZar(item.unitPrice) }} / {{ item.optionSelection }}</span>

@@ -103,7 +103,8 @@
         "price": 9968,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-001.jpg"
   },
   {
     "id": "SKU-SNK-002",
@@ -209,7 +210,8 @@
         "price": 27440,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-002.jpg"
   },
   {
     "id": "SKU-SNK-003",
@@ -315,7 +317,8 @@
         "price": 12544,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-003.jpg"
   },
   {
     "id": "SKU-SNK-004",
@@ -421,7 +424,8 @@
         "price": 18816,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-004.jpg"
   },
   {
     "id": "SKU-SNK-005",
@@ -527,7 +531,8 @@
         "price": 7616,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-005.jpg"
   },
   {
     "id": "SKU-SNK-006",
@@ -633,7 +638,8 @@
         "price": 29680,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-006.jpg"
   },
   {
     "id": "SKU-SNK-007",
@@ -739,7 +745,8 @@
         "price": 38080,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-007.jpg"
   },
   {
     "id": "SKU-SNK-008",
@@ -845,7 +852,8 @@
         "price": 20720,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-008.jpg"
   },
   {
     "id": "SKU-SNK-009",
@@ -951,7 +959,8 @@
         "price": 42560,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-009.jpg"
   },
   {
     "id": "SKU-SNK-010",
@@ -1057,7 +1066,8 @@
         "price": 36400,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-010.jpg"
   },
   {
     "id": "SKU-SNK-011",
@@ -1163,7 +1173,8 @@
         "price": 11760,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-011.jpg"
   },
   {
     "id": "SKU-SNK-012",
@@ -1269,7 +1280,8 @@
         "price": 6608,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-012.jpg"
   },
   {
     "id": "SKU-SNK-013",
@@ -1375,7 +1387,8 @@
         "price": 10528,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-013.jpg"
   },
   {
     "id": "SKU-SNK-014",
@@ -1481,7 +1494,8 @@
         "price": 6048,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-014.jpg"
   },
   {
     "id": "SKU-SNK-015",
@@ -1587,7 +1601,8 @@
         "price": 10976,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-015.jpg"
   },
   {
     "id": "SKU-SNK-016",
@@ -1693,7 +1708,8 @@
         "price": 31248,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-016.jpg"
   },
   {
     "id": "SKU-SNK-017",
@@ -1799,7 +1815,8 @@
         "price": 8064,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-017.jpg"
   },
   {
     "id": "SKU-SNK-018",
@@ -1905,7 +1922,8 @@
         "price": 34720,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-018.jpg"
   },
   {
     "id": "SKU-SNK-019",
@@ -2011,7 +2029,8 @@
         "price": 6272,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-019.jpg"
   },
   {
     "id": "SKU-SNK-020",
@@ -2117,6 +2136,7 @@
         "price": 8288,
         "stockQty": 2
       }
-    ]
+    ],
+    "image_url": "/assets/images/products/SKU-SNK-020.jpg"
   }
 ]

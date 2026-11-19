@@ -53,6 +53,11 @@ test('KULTUREVAULT Exchange E2E Headless Chromium Storefront & Cart Flows', asyn
     const productCards = await page.$$('.sneaker-card');
     assert.strictEqual(productCards.length, 20, `Expected 20 deadstock sneaker cards, found ${productCards.length}`);
 
+    const loadedImagesCount = await page.$$eval('.sneaker-card .product-photo', (imgs) =>
+      imgs.filter((img) => img.complete && img.naturalWidth > 0).length
+    );
+    assert.strictEqual(loadedImagesCount, 20, `Expected all 20 sneaker studio product photos to load, found ${loadedImagesCount}`);
+
     await saveScreenshotIfDirExists(page, 'kulturevault_sneakers_m3.png');
   });
 
@@ -158,6 +163,11 @@ test('KULTUREVAULT Exchange E2E Headless Chromium Storefront & Cart Flows', asyn
 
     const cardsCount = await page.$$eval('.streetwear-card', (cards) => cards.length);
     assert.strictEqual(cardsCount, 16, `Expected 16 streetwear cards, found ${cardsCount}`);
+
+    const loadedStrPhotos = await page.$$eval('.streetwear-card .product-photo', (imgs) =>
+      imgs.filter((img) => img.complete && img.naturalWidth > 0).length
+    );
+    assert.strictEqual(loadedStrPhotos, 16, `Expected all 16 streetwear product photos to load, found ${loadedStrPhotos}`);
 
     const savingsBadge = await page.$eval('.savings-amount-pill', (el) => el.textContent.trim());
     assert.ok(

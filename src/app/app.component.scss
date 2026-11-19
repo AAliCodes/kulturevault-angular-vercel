@@ -397,6 +397,23 @@
   }
 }
 
+.cart-row-header-flex {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.cart-row-thumb {
+  width: 62px;
+  height: 48px;
+  object-fit: contain;
+  background-color: #ffffff;
+  border: 1px solid var(--md-sys-color-outline-variant);
+  border-radius: var(--md-sys-shape-corner-small);
+  padding: 4px;
+  flex-shrink: 0;
+}
+
 .cart-row-title h4 {
   font-size: 0.95rem;
   font-weight: 700;

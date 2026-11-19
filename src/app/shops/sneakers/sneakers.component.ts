@@ -185,6 +185,16 @@ import { SneakersShopService } from './services/sneakers-shop.service';
                   </div>
                 </div>
 
+                <!-- StockX Studio Product Photo Stage -->
+                <div class="product-media-stage">
+                  <img
+                    class="product-photo"
+                    [src]="product.image_url"
+                    [alt]="product.title"
+                  />
+                  <span class="verified-chip-overlay">✓ Verified Deadstock</span>
+                </div>
+
                 <div class="card-body">
                   <div class="style-year-row">
                     <span class="sku-code mono">{{ product.style_code }}</span>
@@ -375,10 +385,20 @@ import { SneakersShopService } from './services/sneakers-shop.service';
                     <td class="mono sku-code">{{ product.style_code }}</td>
                     <td><span class="vendor-pill">{{ product.brand }}</span></td>
                     <td>
-                      <span class="table-item-title">{{ product.title }}</span>
-                      <span class="table-item-sub"
-                        >{{ product.colorway }} &bull; {{ product.authentication_badge }}</span
-                      >
+                      <div class="table-item-media">
+                        <img
+                          class="table-thumb-photo"
+                          [src]="product.image_url"
+                          [alt]="product.title"
+                          loading="lazy"
+                        />
+                        <div>
+                          <span class="table-item-title">{{ product.title }}</span>
+                          <span class="table-item-sub"
+                            >{{ product.colorway }} &bull; {{ product.authentication_badge }}</span
+                          >
+                        </div>
+                      </div>
                     </td>
                     <td class="mono">{{ shopService.getSelectedSize(product.id) }}</td>
                     <td class="mono text-emerald">
