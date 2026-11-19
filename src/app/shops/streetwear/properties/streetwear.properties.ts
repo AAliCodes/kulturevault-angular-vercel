@@ -1,0 +1,51 @@
+/**
+ * Synchronized Java-Style Properties Bundle for namespace: streetwear
+ */
+export const STREETWEAR_PROPERTIES_RAW = `
+streetwear.ribbon.lead=ARCHIVE STREETWEAR & RUNWAY CAPSULES
+streetwear.ribbon.houses=SUPREME NYC • OFF-WHITE™ MILAN • STÜSSY INTERNATIONAL TRIBE
+streetwear.ribbon.verification=Certilogo 12-Digit CLG & Woven RN Neck Label Authenticated
+streetwear.ribbon.shipping=Complimentary Armored Courier on Orders Over R 5,000
+streetwear.header.divisionPill=KULTUREVAULT // STREETWEAR & APPAREL ARCHIVE
+streetwear.header.certPill=BNWT DEADSTOCK • CERTILOGO & HOLOGRAM VERIFIED
+streetwear.header.title=Heavyweight Box Logos, Milan Diagonals & Pigment-Dyed Classics.
+streetwear.header.tagline=Curated deadstock apparel from Supreme New York, Virgil Abloh's Off-White™ Milan studio, and Stüssy Chapter drops — sealed in original archival polybags with verified weave density.
+streetwear.stats.capsules.value=16 Pieces
+streetwear.stats.capsules.label=Authenticated Apparel Drops
+streetwear.stats.weight.value=480 GSM
+streetwear.stats.weight.label=Crossgrain & Loopback Fleece
+streetwear.stats.clg.value=100% CLG
+streetwear.stats.clg.label=Certilogo & RN Tag Verified
+streetwear.stats.margin.value=ZAR Live
+streetwear.stats.margin.label=Instant Ask or Collector Bid
+streetwear.toolbar.houseFilterLabel=Filter by Streetwear House:
+streetwear.toolbar.allHouses=All Houses
+streetwear.toolbar.tier.all=All Capsules
+streetwear.toolbar.tier.retail=Core Drops
+streetwear.toolbar.tier.b2b=Runway & Archive Grails
+streetwear.search.placeholder=Search Supreme Box Logo, Off-White Caravaggio, Stüssy 8 Ball, FW23...
+streetwear.catalog.showingPrefix=Showing
+streetwear.catalog.showingSuffix=authenticated deadstock streetwear pieces
+streetwear.catalog.policyNotice=All garments sealed BNWT (Brand New With Tags) • Enforced Upfront Settlement
+streetwear.card.sizeSelectLabel=Select Apparel Size:
+streetwear.card.spec.fit=Garment Fit
+streetwear.card.spec.fabric=Fabric & GSM Spec
+streetwear.card.mode.buyNow=Instant Buy (Lowest Ask)
+streetwear.card.mode.collectorBid=Collector Bid (-9% Maker Quote)
+streetwear.card.currency=R
+streetwear.card.lowestAskLabel=Lowest Ask
+streetwear.card.highestBidLabel=Highest Bid
+streetwear.card.lastSaleLabel=Last Sale
+streetwear.card.inVaultCount={0} sealed units in vault
+streetwear.card.qty.decreaseAriaLabel=Decrease garment quantity
+streetwear.card.qty.increaseAriaLabel=Increase garment quantity
+streetwear.card.addBtn=Acquire Garment
+streetwear.card.bidBtn=Place Apparel Bid
+streetwear.footer.col1.title=Supreme Crossgrain & RN Verification
+streetwear.footer.col1.body=Our apparel authenticators inspect Supreme crossgrain fleece grain direction, oval P Box Logo embroidery stitch count, and wash-tag font kerning under macro magnification.
+streetwear.footer.col2.title=Off-White™ Certilogo & Stüssy Pigment Spec
+streetwear.footer.col2.body=Every Off-White™ garment is validated via its 12-digit Certilogo (CLG) QR/NFC transponder and silicone zip-tie weight; Stüssy pieces are checked for individual pigment-dye collar tags.
+streetwear.footer.col3.title=Archival Garment Preservation
+streetwear.footer.col3.body=Apparel is stored in climate-controlled 45% humidity vaults in acid-free polybags and shipped flat-crated to prevent crease lines. Stylist desk:
+streetwear.footer.col3.email=apparel@kulturevault.co.za
+`;

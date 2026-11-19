@@ -1,0 +1,39 @@
+{
+  "name": "kulturevault-exchange",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build:feeds": "node scripts/generate-ad-feeds.mjs",
+    "build": "node scripts/generate-ad-feeds.mjs && ng build --configuration production",
+    "watch": "ng build --watch --configuration development",
+    "test": "node --test tests/unit/*.spec.mjs",
+    "test:unit": "node --test tests/unit/*.spec.mjs",
+    "test:services": "node --test tests/unit/shop-services.spec.mjs",
+    "test:ui": "node --test tests/e2e/storefront-flows.spec.mjs",
+    "test:regression": "node tests/regression-runner.mjs",
+    "start:prod": "node server.mjs",
+    "vercel-build": "node scripts/generate-ad-feeds.mjs && ng build --configuration production"
+  },
+  "dependencies": {
+    "@angular/animations": "^17.3.0",
+    "@angular/common": "^17.3.0",
+    "@angular/compiler": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "@angular/forms": "^17.3.0",
+    "@angular/platform-browser": "^17.3.0",
+    "@angular/platform-browser-dynamic": "^17.3.0",
+    "@angular/router": "^17.3.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.0",
+    "@angular/cli": "^17.3.0",
+    "@angular/compiler-cli": "^17.3.0",
+    "puppeteer-core": "^25.17.0",
+    "typescript": "~5.4.2"
+  }
+}

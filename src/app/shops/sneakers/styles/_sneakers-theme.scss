@@ -1,0 +1,48 @@
+/**
+ * KULTUREVAULT // Sneakers Exchange — Material You (M3 HCT) Dark Theme Partial
+ * Palette: StockX Vault Emerald (#00E676), Carbon Obsidian (#090C10..#30363D), Ticker Gold (#F59E0B)
+ */
+
+:root[data-shop-theme='sneakers'],
+:root:not([data-shop-theme]) {
+  color-scheme: dark;
+
+  --md-sys-color-primary: #00E676;
+  --md-sys-color-on-primary: #051F11;
+  --md-sys-color-primary-container: #093820;
+  --md-sys-color-on-primary-container: #76FFAC;
+  --md-sys-color-primary-fixed-dim: #00C853;
+
+  --md-sys-color-secondary: #F59E0B;
+  --md-sys-color-on-secondary: #221500;
+  --md-sys-color-secondary-container: #362405;
+  --md-sys-color-on-secondary-container: #FDE68A;
+
+  --md-sys-color-tertiary: #FF6B6B;
+  --md-sys-color-on-tertiary: #2C0B0E;
+  --md-sys-color-tertiary-container: #3B1619;
+  --md-sys-color-on-tertiary-container: #FECDD3;
+
+  --md-sys-color-background: #0D1117;
+  --md-sys-color-on-background: #F0F6FC;
+  --md-sys-color-surface: #090C10;
+  --md-sys-color-on-surface: #F0F6FC;
+  --md-sys-color-on-surface-variant: #8B949E;
+
+  --md-sys-color-surface-container-lowest: #090C10;
+  --md-sys-color-surface-container-low: #0D1117;
+  --md-sys-color-surface-container: #161B22;
+  --md-sys-color-surface-container-high: #21262D;
+  --md-sys-color-surface-container-highest: #30363D;
+
+  --md-sys-color-outline: #484F58;
+  --md-sys-color-outline-variant: #21262D;
+
+  --md-sys-elevation-level1: 0 4px 16px rgba(0, 0, 0, 0.45);
+  --md-sys-elevation-level2: 0 8px 28px rgba(0, 230, 118, 0.14);
+  --md-sys-elevation-level3: 0 14px 36px rgba(0, 0, 0, 0.65);
+
+  --md-sys-typescale-heading-font: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+  --md-sys-typescale-body-font: 'Inter', system-ui, -apple-system, sans-serif;
+  --md-sys-typescale-mono-font: 'JetBrains Mono', 'Fira Code', monospace;
+}

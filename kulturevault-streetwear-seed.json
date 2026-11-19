@@ -1,0 +1,930 @@
+[
+  {
+    "id": "SKU-STR-001",
+    "code": "SUP-FW23-BOGO-GRY",
+    "title": "Supreme Box Logo Hooded Sweatshirt \"Ash Grey / Red Box\"",
+    "brand": "Supreme",
+    "category": "Box Logo & Hoodies",
+    "subcategory": "Box Logo Fleece",
+    "description": "Flagship Supreme heavyweight crossgrain fleece hoodie with direct-embroidered red Box Logo chest patch, ribbed gussets, and pouch pocket.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 6440,
+    "benchmark_retail_price": 9200,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Heavyweight Crossgrain Boxy Fit",
+    "fabric_composition": "100% Combed Cotton 480gsm Crossgrain Fleece",
+    "authenticity_verification": "Supreme Woven RN Neck Tag & Hologram Bag Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 9200,
+    "highest_bid_zar": 8372,
+    "last_sale_zar": 8832,
+    "market_change_pct": 18.2,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "SUP-FW23-BOGO-GRY-S",
+        "price": 9200,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "SUP-FW23-BOGO-GRY-M",
+        "price": 9200,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "SUP-FW23-BOGO-GRY-L",
+        "price": 9200,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "SUP-FW23-BOGO-GRY-XL",
+        "price": 9200,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-002",
+    "code": "SUP-FW23-TNF-700",
+    "title": "Supreme x The North Face 700-Fill Down Nuptse Parka \"Black\"",
+    "brand": "Supreme",
+    "category": "Outerwear & Jackets",
+    "subcategory": "Supreme x TNF",
+    "description": "Collaborative cold-weather expedition Nuptse jacket featuring 700-fill RDS down insulation, stowable hood, and dual woven sleeve patches.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "B2B",
+    "wholesale_cost": 12250,
+    "benchmark_retail_price": 17500,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Expedition Relaxed Puffer Fit",
+    "fabric_composition": "Water-Resistant Ripstop Nylon • 700-Fill Goose Down",
+    "authenticity_verification": "TNF Hologram Inner Tag & Dual Arm Patch Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 17500,
+    "highest_bid_zar": 15925,
+    "last_sale_zar": 16800,
+    "market_change_pct": 24.5,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "SUP-FW23-TNF-700-S",
+        "price": 17500,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "SUP-FW23-TNF-700-M",
+        "price": 17500,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "SUP-FW23-TNF-700-L",
+        "price": 17500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "SUP-FW23-TNF-700-XL",
+        "price": 17500,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-003",
+    "code": "SUP-FW22-BOGO-BLK",
+    "title": "Supreme Box Logo Crewneck \"Black / Black Tonality\"",
+    "brand": "Supreme",
+    "category": "Box Logo & Hoodies",
+    "subcategory": "Box Logo Fleece",
+    "description": "Classic crewneck pullover constructed from dense crossgrain fleece in stealth black with signature red-and-white embroidered chest Box Logo.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 5460,
+    "benchmark_retail_price": 7800,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW22",
+    "garment_fit": "Heavyweight Crossgrain Crew Fit",
+    "fabric_composition": "100% Heavyweight Cotton Crossgrain Fleece",
+    "authenticity_verification": "Supreme Woven Neck Label & Stitch Density Checked",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 7800,
+    "highest_bid_zar": 7098,
+    "last_sale_zar": 7488,
+    "market_change_pct": 14,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "SUP-FW22-BOGO-BLK-S",
+        "price": 7800,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "SUP-FW22-BOGO-BLK-M",
+        "price": 7800,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "SUP-FW22-BOGO-BLK-L",
+        "price": 7800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "SUP-FW22-BOGO-BLK-XL",
+        "price": 7800,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-004",
+    "code": "SUP-SS22-BUR-TEE",
+    "title": "Supreme x Burberry Box Logo Tee \"White / Nova Check\"",
+    "brand": "Supreme",
+    "category": "Graphic Tees & Knits",
+    "subcategory": "Collaborative Box Logo",
+    "description": "Luxury capsule t-shirt uniting Supreme NYC and Burberry London with heritage beige Nova Check tartan printed inside the chest Box Logo.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "B2B",
+    "wholesale_cost": 4830,
+    "benchmark_retail_price": 6900,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "SS22",
+    "garment_fit": "Standard Skate Tee Fit",
+    "fabric_composition": "100% All-Cotton Pre-Shrunk Jersey",
+    "authenticity_verification": "Supreme x Burberry Co-Branded Neck Stamp Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 6900,
+    "highest_bid_zar": 6279,
+    "last_sale_zar": 6624,
+    "market_change_pct": 21.6,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "SUP-SS22-BUR-TEE-S",
+        "price": 6900,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "SUP-SS22-BUR-TEE-M",
+        "price": 6900,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "SUP-SS22-BUR-TEE-L",
+        "price": 6900,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "SUP-SS22-BUR-TEE-XL",
+        "price": 6900,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-005",
+    "code": "SUP-FW23-VRS-JKT",
+    "title": "Supreme Tiger Varsity Wool & Leather Jacket \"Black / Gold\"",
+    "brand": "Supreme",
+    "category": "Outerwear & Jackets",
+    "subcategory": "Varsity Outerwear",
+    "description": "Heavyweight Melton wool varsity bomber with cowhide leather sleeves, tackle-twill chenille tiger patches, and quilted satin interior.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "B2B",
+    "wholesale_cost": 11060,
+    "benchmark_retail_price": 15800,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Boxy Collegiate Bomber Fit",
+    "fabric_composition": "Melton Wool Body • Full-Grain Cowhide Leather Sleeves",
+    "authenticity_verification": "Chenille Patchwork & Quilted Satin Lining Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 15800,
+    "highest_bid_zar": 14378,
+    "last_sale_zar": 15168,
+    "market_change_pct": 19.8,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "SUP-FW23-VRS-JKT-S",
+        "price": 15800,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "SUP-FW23-VRS-JKT-M",
+        "price": 15800,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "SUP-FW23-VRS-JKT-L",
+        "price": 15800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "SUP-FW23-VRS-JKT-XL",
+        "price": 15800,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-006",
+    "code": "OFF-OMBB037F23-BLK",
+    "title": "Off-White™ Caravaggio Painting Oversized Hoodie \"Black\"",
+    "brand": "Off-White",
+    "category": "Box Logo & Hoodies",
+    "subcategory": "Off-White Archival Fleece",
+    "description": "Gallery-grade Portuguese loopback cotton hoodie featuring Baroque Caravaggio chest framing and oversized Diagonals arrow screenprint on back.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 7980,
+    "benchmark_retail_price": 11400,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Runway Boxy Oversized Fit",
+    "fabric_composition": "100% Portuguese Loopback Terry Cotton 460gsm",
+    "authenticity_verification": "Certilogo 12-Digit CLG QR & Silicone Hangtag Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 11400,
+    "highest_bid_zar": 10374,
+    "last_sale_zar": 10944,
+    "market_change_pct": 17.5,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "OFF-OMBB037F23-BLK-S",
+        "price": 11400,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "OFF-OMBB037F23-BLK-M",
+        "price": 11400,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "OFF-OMBB037F23-BLK-L",
+        "price": 11400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "OFF-OMBB037F23-BLK-XL",
+        "price": 11400,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-007",
+    "code": "OFF-OMJA058F23-BLK",
+    "title": "Off-White™ Diag Arrows Leather Sleeve Varsity Jacket \"Black/White\"",
+    "brand": "Off-White",
+    "category": "Outerwear & Jackets",
+    "subcategory": "Runway Outerwear",
+    "description": "Milan runway varsity jacket with calfskin sleeves, chenille Off-White Arrows back emblem, and signature brushed silver paperclip hardware.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "B2B",
+    "wholesale_cost": 16450,
+    "benchmark_retail_price": 23500,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Structured Milan Runway Fit",
+    "fabric_composition": "Virgin Wool Blend • Calfskin Leather Sleeves",
+    "authenticity_verification": "Certilogo CLG NFC Chip & Metal Paperclip Zip Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 23500,
+    "highest_bid_zar": 21385,
+    "last_sale_zar": 22560,
+    "market_change_pct": 26,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "OFF-OMJA058F23-BLK-S",
+        "price": 23500,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "OFF-OMJA058F23-BLK-M",
+        "price": 23500,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "OFF-OMJA058F23-BLK-L",
+        "price": 23500,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "OFF-OMJA058F23-BLK-XL",
+        "price": 23500,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-008",
+    "code": "OFF-OMAA038S24-WHT",
+    "title": "Off-White™ Spray Marker Arrows Skate Tee \"Optical White\"",
+    "brand": "Off-White",
+    "category": "Graphic Tees & Knits",
+    "subcategory": "Milan Graphic Jersey",
+    "description": "Heavyweight optical white skate jersey t-shirt with minimalist chest logo and airbrushed Spray Marker 4-Way Arrows back graphic.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 3780,
+    "benchmark_retail_price": 5400,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "SS24",
+    "garment_fit": "Drop-Shoulder Skate Fit",
+    "fabric_composition": "100% Combed Heavy Jersey Cotton 280gsm",
+    "authenticity_verification": "Certilogo CLG Code & Main Label Cord Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 5400,
+    "highest_bid_zar": 4914,
+    "last_sale_zar": 5184,
+    "market_change_pct": 11.2,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "OFF-OMAA038S24-WHT-S",
+        "price": 5400,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "OFF-OMAA038S24-WHT-M",
+        "price": 5400,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "OFF-OMAA038S24-WHT-L",
+        "price": 5400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "OFF-OMAA038S24-WHT-XL",
+        "price": 5400,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-009",
+    "code": "OFF-OMRB012E23-YLW",
+    "title": "Off-White™ Industrial Webbing Belt 2.0 \"Hazard Yellow / Black\"",
+    "brand": "Off-White",
+    "category": "Industrial & Denim",
+    "subcategory": "Industrial Webbing",
+    "description": "Iconic 200cm industrial yellow jacquard webbing strap woven with \"WILL 5,400 lbs\" weight securing system and matte black steel clamp buckle.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 2940,
+    "benchmark_retail_price": 4200,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "ARCHIVE",
+    "garment_fit": "200cm Adjustable Industrial Spec",
+    "fabric_composition": "High-Tensile Polyamide Webbing • Matte Steel Clasp",
+    "authenticity_verification": "Certilogo CLG Code & 5,400 lbs Weight Spec Jacquard",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 4200,
+    "highest_bid_zar": 3822,
+    "last_sale_zar": 4032,
+    "market_change_pct": 9.8,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "OFF-OMRB012E23-YLW-S",
+        "price": 4200,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "OFF-OMRB012E23-YLW-M",
+        "price": 4200,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "OFF-OMRB012E23-YLW-L",
+        "price": 4200,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "OFF-OMRB012E23-YLW-XL",
+        "price": 4200,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-010",
+    "code": "OFF-OMYA074F23-IND",
+    "title": "Off-White™ Diag Pocket Carpenter Selvedge Denim Jeans \"Vintage Indigo\"",
+    "brand": "Off-White",
+    "category": "Industrial & Denim",
+    "subcategory": "Milan Denim",
+    "description": "14oz Italian indigo carpenter jeans featuring contrast diagonal stripe utility pocket, hammer loop, and quote-stamped hardware rivets.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 7560,
+    "benchmark_retail_price": 10800,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Relaxed Straight Carpenter Cut",
+    "fabric_composition": "14oz Italian Rigid Cotton Denim",
+    "authenticity_verification": "Certilogo CLG Tag & Embossed Leather Waist Patch",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 10800,
+    "highest_bid_zar": 9828,
+    "last_sale_zar": 10368,
+    "market_change_pct": 15.4,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "OFF-OMYA074F23-IND-S",
+        "price": 10800,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "OFF-OMYA074F23-IND-M",
+        "price": 10800,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "OFF-OMYA074F23-IND-L",
+        "price": 10800,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "OFF-OMYA074F23-IND-XL",
+        "price": 10800,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-011",
+    "code": "STU-1905000-NAT",
+    "title": "Stüssy 8 Ball Pigment Dyed Heavyweight Tee \"Natural\"",
+    "brand": "Stüssy",
+    "category": "Graphic Tees & Knits",
+    "subcategory": "Pigment Dyed Capsule",
+    "description": "Individually pigment-dyed natural heavyweight jersey tee featuring oversized vintage Stüssy 8-Ball graphic across the back and chest.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 1680,
+    "benchmark_retail_price": 2400,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "SS24",
+    "garment_fit": "Relaxed California Surf-Street Fit",
+    "fabric_composition": "100% Ring-Spun Cotton 240gsm Individual Pigment Dye",
+    "authenticity_verification": "Stüssy Shawn Script Woven Collar Tag Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 2400,
+    "highest_bid_zar": 2184,
+    "last_sale_zar": 2304,
+    "market_change_pct": 14.9,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-1905000-NAT-S",
+        "price": 2400,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-1905000-NAT-M",
+        "price": 2400,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-1905000-NAT-L",
+        "price": 2400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-1905000-NAT-XL",
+        "price": 2400,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-012",
+    "code": "STU-1974870-ASH",
+    "title": "Stüssy World Tour Full-Zip Hooded Sweatshirt \"Ash Heather\"",
+    "brand": "Stüssy",
+    "category": "Box Logo & Hoodies",
+    "subcategory": "World Tour Fleece",
+    "description": "Signature World Tour zip hoodie listing New York, Los Angeles, Tokyo, London, Paris alongside Bronx, Compton, Santa Ana, Brooklyn, Venice.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 3220,
+    "benchmark_retail_price": 4600,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Relaxed Boxy Zip-Up Fit",
+    "fabric_composition": "80% Cotton / 20% Polyester 430gsm Brushed Fleece",
+    "authenticity_verification": "Stüssy Authentic Gear Woven Tag & YKK Metal Zip",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 4600,
+    "highest_bid_zar": 4186,
+    "last_sale_zar": 4416,
+    "market_change_pct": 13.5,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-1974870-ASH-S",
+        "price": 4600,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-1974870-ASH-M",
+        "price": 4600,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-1974870-ASH-L",
+        "price": 4600,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-1974870-ASH-XL",
+        "price": 4600,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-013",
+    "code": "STU-NK-FLC-01",
+    "title": "Stüssy x Nike Stone Washed Fleece Crewneck \"Washed Black\"",
+    "brand": "Stüssy",
+    "category": "Box Logo & Hoodies",
+    "subcategory": "Stüssy x Nike Capsule",
+    "description": "Enzyme stone-washed black heavyweight fleece pullover with co-branded Nike Swoosh and Stüssy interlocking crest embroidery at collar.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 3430,
+    "benchmark_retail_price": 4900,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Oversized Collaborative Athletic Fit",
+    "fabric_composition": "84% Cotton / 16% Recycled Polyester Heavy Fleece",
+    "authenticity_verification": "Co-Branded Stüssy x Nike Embroidery & SKU Tag Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 4900,
+    "highest_bid_zar": 4459,
+    "last_sale_zar": 4704,
+    "market_change_pct": 16.8,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-NK-FLC-01-S",
+        "price": 4900,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-NK-FLC-01-M",
+        "price": 4900,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-NK-FLC-01-L",
+        "price": 4900,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-NK-FLC-01-XL",
+        "price": 4900,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-014",
+    "code": "STU-116599-BLK",
+    "title": "Stüssy Big Ol' Washed Canvas Jean \"Washed Black\"",
+    "brand": "Stüssy",
+    "category": "Industrial & Denim",
+    "subcategory": "Workwear Denim & Canvas",
+    "description": "90s baggy cut workwear trousers in stone-washed heavy duck canvas with double-needle reinforced seams and Curly S coin pocket embroidery.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 3640,
+    "benchmark_retail_price": 5200,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "SS24",
+    "garment_fit": "Baggy 90s Skate Fit",
+    "fabric_composition": "100% Heavyweight 14.5oz Cotton Duck Canvas",
+    "authenticity_verification": "Stüssy Suede Swirl Waist Patch & Nickel Shank Button",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 5200,
+    "highest_bid_zar": 4732,
+    "last_sale_zar": 4992,
+    "market_change_pct": 12.1,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-116599-BLK-S",
+        "price": 5200,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-116599-BLK-M",
+        "price": 5200,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-116599-BLK-L",
+        "price": 5200,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-116599-BLK-XL",
+        "price": 5200,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-015",
+    "code": "STU-117142-IVR",
+    "title": "Stüssy Fuzzy Dice Mohair Knit Sweater \"Ivory / Black\"",
+    "brand": "Stüssy",
+    "category": "Graphic Tees & Knits",
+    "subcategory": "Artisanal Knitwear",
+    "description": "Plush brushed mohair-blend sweater featuring jacquard-knitted suspended fuzzy dice motif and ribbed crewneck trim.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "B2B",
+    "wholesale_cost": 4480,
+    "benchmark_retail_price": 6400,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Relaxed Drop-Shoulder Knit",
+    "fabric_composition": "Brushed Kid Mohair, Wool & Nylon Jacquard Knit",
+    "authenticity_verification": "Stüssy Knitwear Archive Label Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 6400,
+    "highest_bid_zar": 5824,
+    "last_sale_zar": 6144,
+    "market_change_pct": 17.9,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-117142-IVR-S",
+        "price": 6400,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-117142-IVR-M",
+        "price": 6400,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-117142-IVR-L",
+        "price": 6400,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-117142-IVR-XL",
+        "price": 6400,
+        "stockQty": 3
+      }
+    ]
+  },
+  {
+    "id": "SKU-STR-016",
+    "code": "STU-115710-CAM",
+    "title": "Stüssy Reversible Sherpa & Ripstop Work Vest \"Olive / Bone\"",
+    "brand": "Stüssy",
+    "category": "Outerwear & Jackets",
+    "subcategory": "Workwear Outerwear",
+    "description": "Dual-sided cold-weather work vest offering high-pile Bone sherpa fleece on side A and quilted olive ripstop with Stüssy print on side B.",
+    "unit": "Garment (Deadstock Sealed)",
+    "tier": "Retail",
+    "wholesale_cost": 3920,
+    "benchmark_retail_price": 5600,
+    "target_margin_pct": 30,
+    "packaging": "Original Polybag, Branded Silica Pack & KULTUREVAULT Tamper Seal",
+    "shelf_life": "Brand New With Tags (BNWT Deadstock)",
+    "stock_qty": 14,
+    "is_active": true,
+    "season_code": "FW23",
+    "garment_fit": "Boxy Layering Work Vest",
+    "fabric_composition": "High-Pile Sherpa Fleece / Contrast Nylon Ripstop",
+    "authenticity_verification": "Stüssy Workgear Woven Pocket Tab Verified",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "lowest_ask_zar": 5600,
+    "highest_bid_zar": 5096,
+    "last_sale_zar": 5376,
+    "market_change_pct": 13,
+    "variants": [
+      {
+        "optionValue": "Size S",
+        "sku": "STU-115710-CAM-S",
+        "price": 5600,
+        "stockQty": 3
+      },
+      {
+        "optionValue": "Size M",
+        "sku": "STU-115710-CAM-M",
+        "price": 5600,
+        "stockQty": 4
+      },
+      {
+        "optionValue": "Size L",
+        "sku": "STU-115710-CAM-L",
+        "price": 5600,
+        "stockQty": 5
+      },
+      {
+        "optionValue": "Size XL",
+        "sku": "STU-115710-CAM-XL",
+        "price": 5600,
+        "stockQty": 3
+      }
+    ]
+  }
+]
